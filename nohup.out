@@ -1,0 +1,2455 @@
+
+Connecting...
+Connected!
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 94
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Creating Michael's log file.
+Creating Jon's log file.
+Creating Chelsea's log file.
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 97
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 98
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 98
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 99
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 98
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 98
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: True
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 40
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 44
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 44
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 44
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 44
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 44
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 44
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 63
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 63
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 68
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 68
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 74
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 74
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 81
+charging: True
+location: None
+address1: 173 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 81
+charging: True
+location: None
+address1: 173 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 86
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 86
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 91
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 91
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 95
+charging: True
+location: None
+address1: 173 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 95
+charging: True
+location: None
+address1: 173 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 98
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 98
+charging: True
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 173 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 173 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: Chelsea's House
+address1: Chelsea's House
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: None
+address1: 661 US Hwy 49
+address2: Richland, MS
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: None
+address1: 659 US Hwy 49
+address2: Richland, MS
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: None
+address1: 659 US Hwy 49
+address2: Richland, MS
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: None
+address1: 711 US Hwy 49
+address2: Richland, MS
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: None
+address1: 364 Caseys Ln
+address2: Flowood, MS
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: True
+location: None
+address1: Treetop Blvd
+address2: Flowood, MS
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 100
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 98
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 97
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 97
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Chelsea
+Jon
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Chelsea:
+battery: 97
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+Logging Michael's data.
+Logging Chelsea's data.
+Logging Jon's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 97
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+
+Retrieving information for:
+Michael
+Jon
+Chelsea
+
+Michael:
+battery: 100
+charging: False
+location: Michael's House
+address1: Michael's House
+address2: 
+driving: False
+
+Jon:
+battery: 100
+charging: False
+location: None
+address1: 171 Riverbend Dr
+address2: Byram, MS
+driving: False
+
+Chelsea:
+battery: 97
+charging: False
+location: Chelsea’s work
+address1: Chelsea’s work
+address2: 
+driving: False
+Logging Michael's data.
+Logging Jon's data.
+Logging Chelsea's data.
+
+Waiting --- 
+---- Complete ----
