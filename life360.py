@@ -1,5 +1,5 @@
 from life360API import life360
-import datetime
+from datetime import datetime
 
 def logIn(username, password):
     '''Gets Username and Password from user and returns api information.'''
@@ -50,7 +50,7 @@ def getLocationInfo(user):
      and whether or not user is driving (bool).'''
     location = 'location', user['location']['name']  # location Name - empty string if None
     address1 = 'address1', user['location']['address1']  # street?
-    address2 = 'address2', user['location']['address2']  # city?
+    address2 = 'address2', user['location']['address2'].replace(',', '')  # format to remove commas for csv
     driving = 'driving', bool(int(user['location']['isDriving'])) # driving - true or false
     return location, address1, address2, driving
 
@@ -67,10 +67,14 @@ def getAllUserInfo(user):
     return userInfo
 
 def makeUserDict(api):
-    users = getUserInfo(api)
+    try:
+        users = getUserInfo(api)
+    except:
+        return None
     userDict = {}
     for user in users:
         print()
+        print(datetime.now())
         name = getName(user)
         print(f'{name}:')
         info = getAllUserInfo(user)

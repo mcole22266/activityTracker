@@ -1,6 +1,9 @@
 from datetime import datetime
+import os
 
 def createFilesAndHeaders(userDict, startDate):
+    if not os.path.isdir('./Logs'):
+        os.mkdir('./Logs')    
     for user in userDict:
         filename = f'./Logs/{user}Log{startDate}.csv'
         print(f'Creating {user}\'s log file.')

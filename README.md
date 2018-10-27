@@ -9,13 +9,8 @@
 
 All output is suppressed and redirected to a file `nohup.out` to prevent ssh shutdown.
 
-Collects Data every 10 minutes. The data is appended to a csv file that is created upon initial 
+Collects Data every 5 minutes. The data is appended to a csv file that is created upon initial 
 run in the `Logs` directory. 
-
-## Note
-Currently the `address 2` column oftentimes contains a comma. This causes an error when reading 
-the contents of the csv file into a Pandas DataFrame. Current solution is to manually remove the 
-comma but a solution is in the works
 
 ## API and Other Resources
 - `life360API.py`

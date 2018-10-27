@@ -29,10 +29,12 @@ while stopTime >= datetime.now():
     startDate = str(datetime.now().date())
 
     if not createdFiles:
-        fileHandler.createFilesAndHeaders(userDict, startDate)
-        createdFiles = True
+        if userDict:
+            fileHandler.createFilesAndHeaders(userDict, startDate)
+            createdFiles = True
 
-    fileHandler.logData(userDict, startDate)
+    if userDict:
+        fileHandler.logData(userDict, startDate)
 
     print()
     print('Waiting --- ')
